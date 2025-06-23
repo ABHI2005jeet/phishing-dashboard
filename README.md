@@ -40,4 +40,12 @@ Users can paste **emails, links, or chat messages**, and the tool generates a cl
   Open it in any browser!
 
 
+## 👨‍💻 Author->
+**Abhijeet Kumar**  
+Cybersecurity Enthusiast | DSA Learner | First-year BTech (Cyber Security)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-vit/)  
+🔗 [GitHub](https://github.com/ABHI2005jeet)
+
+
 
